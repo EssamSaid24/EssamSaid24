@@ -2,7 +2,7 @@
 <h3 align='center'>Fresh Graduated Software Engineer</h3>
 <p align="center">Expertise in web development, as well as a good understanding of databases and machine learning models, I am well-equipped to tackle complex projects that require a combination of technical skills and knowledge.</p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **RPA**
 
 - 💬 Ask me about **Software Engineering, Backend, Frontend, Database management and RPA**
 
