@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **RPA**
 
-- 💬 Ask me about **Software Engineering, Backend, Frontend, Database management and RPA**
+- 💬 Ask me about **Software Engineering, AI&Automation**
 
 - 📫 How to reach me **essamsaid353@gmail.com**
 
