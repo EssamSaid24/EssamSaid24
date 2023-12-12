@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **essamsaid353@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1X7vehQevVjPgpXFHHNXwvnc6KX32O_pc/view?usp=sharing](https://drive.google.com/file/d/1X7vehQevVjPgpXFHHNXwvnc6KX32O_pc/view?usp=sharing](https://drive.google.com/file/d/1m5TWek1Jecnh5vtw-ro5Lc44nv8xPdky/view?usp=sharing))
+- 📄 Know about my experiences https://drive.google.com/file/d/1m5TWek1Jecnh5vtw-ro5Lc44nv8xPdky/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
